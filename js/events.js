@@ -11,7 +11,9 @@ function frameIt(){
 
 function pressIt(){
   .on('keydown', function(key){
-    if (key ===)
+    if (key === 71){
+      
+    }
   })
 }
 
