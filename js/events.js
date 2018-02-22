@@ -9,6 +9,12 @@ function frameIt(){
   
 }
 
+function pressIt(){
+  .on('keydown', function(key){
+    if (key ===)
+  })
+}
+
 $(document).ready(function(){
 
 // call functions here
