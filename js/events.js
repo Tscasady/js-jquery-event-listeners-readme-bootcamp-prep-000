@@ -17,11 +17,7 @@ function pressIt(){
   })
 }
 
-function submitIt(){
-  .on('submit',){
-    alert('Your form is going to be submitted now.')
-  }
-}
+
 
 $(document).ready(function(){
 getIt()
